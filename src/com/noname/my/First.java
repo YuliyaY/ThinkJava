@@ -13,7 +13,6 @@ public class First {
         );
 
         System.out.println(
-                System.console()
-        );
+                System.console());
     }
 }
