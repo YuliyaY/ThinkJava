@@ -2,6 +2,7 @@ package com.noname.my;
 
 import java.util.*;
 
+/** A class comment */
 public class First {
     public static void main(String[] args) {
         System.out.println(new Date());
